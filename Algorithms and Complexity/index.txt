@@ -1,0 +1,2 @@
+Knowledge of basic data structures such as arrays/trees/hash tables, programming techniques like dynammic programming, graphs, space and time complexity requirements for a given method, randomized algorithms, sublinear
+algorithms.

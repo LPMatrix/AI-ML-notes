@@ -1,0 +1,2 @@
+Counting and Combinatorial methods, Bayes’ Theorem, Random Variables, Expection, Variance, Conditional and Joint Distributions, Moment Generating Functions, Exponential Family of Distributions
+Maximum Likelihood Estimation, MAP, Prior and Posterior

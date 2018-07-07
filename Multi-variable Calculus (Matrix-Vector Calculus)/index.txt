@@ -1,0 +1,1 @@
+Vector-valued functions, Partial-Derivatives, Gradient, Directional Gradient, Hessian, Jacobian, Laplacian, Lagrange Multipliers
